@@ -1,0 +1,19 @@
+URL,LCP,INP,CLS,Performance score,Accessibility score,SEO score,Device
+https://example.com/,2.0,180,0.04,92,95,98,Mobile
+https://example.com/products/widget-pro/,2.1,180,0.05,90,95,98,Mobile
+https://example.com/services/,5.4,640,0.31,38,95,98,Mobile
+https://example.com/category/widgets/,5.1,710,0.33,34,95,98,Mobile
+https://example.com/services/seo-audit/,2.2,150,0.03,89,95,98,Mobile
+https://example.com/products/widget-a/,2.0,120,0.02,91,95,98,Mobile
+https://example.com/blog/thin-post/,2.3,160,0.03,88,95,98,Mobile
+https://example.com/blog/old-guide/,2.4,170,0.03,86,95,98,Mobile
+https://example.com/services/link-building/,2.1,150,0.03,90,95,98,Mobile
+https://example.com/resources/seo-tools/,2.0,140,0.02,92,95,98,Mobile
+https://example.com/services/technical-seo/,2.1,150,0.03,90,95,98,Mobile
+https://example.com/guides/advanced-crawl/,2.2,150,0.03,89,95,98,Mobile
+https://example.com/old/dead-page/,2.5,180,0.04,80,95,98,Mobile
+https://example.com/tag/misc/,2.4,170,0.03,82,95,98,Mobile
+https://example.com/about/,2.1,150,0.03,90,95,98,Mobile
+https://example.com/contact/,2.2,150,0.03,89,95,98,Mobile
+https://example.com/blog/news-update/,2.3,160,0.03,87,95,98,Mobile
+https://example.com/products/widget-b/,2.1,170,0.04,90,95,98,Mobile

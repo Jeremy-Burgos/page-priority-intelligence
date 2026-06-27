@@ -1,0 +1,21 @@
+Inspection URL,Index status,Coverage state,Robots state,Last crawl,Google-selected canonical,User-declared canonical,Sitemap presence
+https://example.com/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/,https://example.com/,Yes
+https://example.com/products/widget-pro/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/products/widget-pro/,https://example.com/products/widget-pro/,Yes
+https://example.com/services/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/services/,https://example.com/services/,Yes
+https://example.com/category/widgets/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/category/all-widgets/,https://example.com/category/widgets/,Yes
+https://example.com/services/seo-audit/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/services/seo-audit/,https://example.com/services/seo-audit/,Yes
+https://example.com/products/widget-a/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/products/widget-a/,https://example.com/products/widget-a/,Yes
+https://example.com/blog/thin-post/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/blog/thin-post/,https://example.com/blog/thin-post/,Yes
+https://example.com/blog/old-guide/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/blog/old-guide/,https://example.com/blog/old-guide/,Yes
+https://example.com/services/link-building/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/services/link-building/,https://example.com/services/link-building/,Yes
+https://example.com/resources/seo-tools/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/resources/seo-tools/,https://example.com/resources/seo-tools/,Yes
+https://example.com/services/technical-seo/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/services/technical-seo/,https://example.com/services/technical-seo/,Yes
+https://example.com/guides/advanced-crawl/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/guides/advanced-crawl/,https://example.com/guides/advanced-crawl/,Yes
+https://example.com/landing/promo/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/landing/promo/,https://example.com/landing/promo/,Yes
+https://example.com/broken-page/,FAIL,Not found (404),ALLOWED,2026-05-01,https://example.com/broken-page/,https://example.com/broken-page/,Yes
+https://example.com/old/dead-page/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/old/dead-page/,https://example.com/old/dead-page/,Yes
+https://example.com/tag/misc/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/tag/misc/,https://example.com/tag/misc/,Yes
+https://example.com/about/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/about/,https://example.com/about/,Yes
+https://example.com/contact/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/contact/,https://example.com/contact/,Yes
+https://example.com/blog/news-update/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/blog/news-update/,https://example.com/blog/news-update/,Yes
+https://example.com/products/widget-b/,PASS,Submitted and indexed,ALLOWED,2026-05-01,https://example.com/products/widget-b/,https://example.com/products/widget-b/,Yes

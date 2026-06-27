@@ -1,0 +1,21 @@
+Address,Status Code,Status,Indexability,Indexability Status,Title 1,Title 1 Length,Meta Description 1,Meta Description 1 Length,H1-1,Word Count,Canonical Link Element 1,Inlinks,Unique Inlinks,Crawl Depth
+https://example.com/,200,OK,Indexable,,Example Home Quality Widgets,28,Placeholder description for /.,30,Example Home Quality Widgets,900,https://example.com/,185,183,0
+https://example.com/products/widget-pro/,200,OK,Indexable,,Page Products Widget-Pro,24,Placeholder description for /products/widget-pro/.,50,Page Products Widget-Pro,1200,https://example.com/products/widget-pro/,90,88,2
+https://example.com/services/,200,OK,Indexable,,Page Services,13,Placeholder description for /services/.,39,Page Services,720,https://example.com/services/,70,68,2
+https://example.com/category/widgets/,200,OK,Indexable,,Page Category Widgets,21,Placeholder description for /category/widgets/.,47,Page Category Widgets,300,https://example.com/category/widgets/,95,93,1
+https://example.com/services/seo-audit/,200,OK,Indexable,,Page Services Seo-Audit,23,Placeholder description for /services/seo-audit/.,49,Page Services Seo-Audit,1450,https://example.com/services/seo-audit/,16,14,3
+https://example.com/products/widget-a/,200,OK,Indexable,,Page Products Widget-A,22,Placeholder description for /products/widget-a/.,48,Page Products Widget-A,1100,https://example.com/products/widget-a/,28,26,2
+https://example.com/blog/thin-post/,200,OK,Indexable,,Page Blog Thin-Post,19,,0,Page Blog Thin-Post,180,https://example.com/blog/thin-post/,12,10,4
+https://example.com/blog/old-guide/,200,OK,Indexable,,Page Blog Old-Guide,19,Placeholder description for /blog/old-guide/.,45,Page Blog Old-Guide,210,https://example.com/blog/old-guide/,9,7,4
+https://example.com/services/link-building/,200,OK,Indexable,,Page Services Link-Building,27,Placeholder description for /services/link-building/.,53,Page Services Link-Building,1300,https://example.com/services/link-building/,75,73,3
+https://example.com/resources/seo-tools/,200,OK,Indexable,,Page Resources Seo-Tools,24,Placeholder description for /resources/seo-tools/.,50,Page Resources Seo-Tools,1500,https://example.com/resources/seo-tools/,82,80,2
+https://example.com/services/technical-seo/,200,OK,Indexable,,Page Services Technical-Seo,27,Placeholder description for /services/technical-seo/.,53,Page Services Technical-Seo,1250,https://example.com/services/technical-seo/,5,3,3
+https://example.com/guides/advanced-crawl/,200,OK,Indexable,,Page Guides Advanced-Crawl,26,Placeholder description for /guides/advanced-crawl/.,52,Page Guides Advanced-Crawl,1400,https://example.com/guides/advanced-crawl/,8,6,6
+https://example.com/landing/promo/,200,OK,Non-Indexable,Noindex,Page Landing Promo,18,,0,Page Landing Promo,140,https://example.com/landing/promo/,2,1,3
+https://example.com/broken-page/,404,Not Found,Non-Indexable,Client Error,Page Broken-Page,16,,0,Page Broken-Page,0,,1,1,5
+https://example.com/old/dead-page/,200,OK,Indexable,,Page Old Dead-Page,18,,0,Page Old Dead-Page,90,https://example.com/old/dead-page/,2,1,5
+https://example.com/tag/misc/,200,OK,Indexable,,Page Tag Misc,13,,0,Page Tag Misc,110,https://example.com/tag/misc/,1,1,5
+https://example.com/about/,200,OK,Indexable,,Page About,10,Placeholder description for /about/.,36,Page About,650,https://example.com/about/,40,38,1
+https://example.com/contact/,200,OK,Indexable,,Page Contact,12,Placeholder description for /contact/.,38,Page Contact,300,https://example.com/contact/,38,36,1
+https://example.com/blog/news-update/,200,OK,Indexable,,Page Blog News-Update,21,Placeholder description for /blog/news-update/.,47,Page Blog News-Update,800,https://example.com/blog/news-update/,15,13,3
+https://example.com/products/widget-b/,200,OK,Indexable,,Page Products Widget-B,22,Placeholder description for /products/widget-b/.,48,Page Products Widget-B,1050,https://example.com/products/widget-b/,60,58,2
