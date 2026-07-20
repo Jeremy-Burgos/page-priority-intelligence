@@ -21,7 +21,7 @@ sample data, so no real site data appears in this repository.
 
 ![Top priority URLs ranked by score](docs/images/03-top-urls.png)
 
-![Client-facing report with an evidence-cited recommendation](docs/images/05-report.png)
+![Stakeholder-facing report with an evidence-cited recommendation](docs/images/05-report.png)
 
 ## What it does
 
@@ -71,7 +71,7 @@ confidence when present. If your GA4 export is path-only, set your site domain i
 so those rows can be joined.
 
 When the run finishes you can download the scored master CSV, the unmatched-rows
-CSV, and client-facing Markdown and HTML reports. Both reports group every URL by
+CSV, and stakeholder-facing Markdown and HTML reports. Both reports group every URL by
 recommended action and include an executive summary, the data sources used, data
 quality warnings, a methodology section, and next steps.
 

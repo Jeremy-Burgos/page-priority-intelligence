@@ -66,7 +66,7 @@ def build_facts(row: dict) -> dict:
 
 
 SYSTEM_PROMPT = (
-    "You are an SEO assistant that writes clear, client-facing recommendations "
+    "You are an SEO assistant that writes clear, stakeholder-facing recommendations "
     "from structured facts. Strict rules: "
     "1. Do not calculate, change, or second-guess the priority score or bucket; "
     "use the values given. "
@@ -76,7 +76,7 @@ SYSTEM_PROMPT = (
     "5. Do not promise rankings, traffic, or revenue. Do not exaggerate impact. "
     "6. Lower the confidence value when data is missing. "
     "7. implementation_owner must be one of: SEO, Content, Developer, Analytics, "
-    "Security, Client, Mixed. "
+    "Security, Site Owner, Mixed. "
     "Return ONLY a single JSON object matching the requested schema, with no "
     "surrounding text, no markdown, and no code fences."
 )

@@ -1,6 +1,6 @@
-"""Markdown and HTML client report builders.
+"""Markdown and HTML stakeholder report builders.
 
-These turn a scored DataFrame into the two client-facing reports described in
+These turn a scored DataFrame into the two stakeholder-facing reports described in
 the report output spec. Both reports are built entirely in memory from data the
 caller already has; nothing is written to disk here. The HTML report escapes all
 dynamic content so a URL or title containing markup cannot break the page.
@@ -145,7 +145,7 @@ def build_markdown_report(
     sources_used: list[str] | None = None,
     top_n: int = 10,
 ) -> str:
-    """Build the client-facing Markdown report as a string."""
+    """Build the stakeholder-facing Markdown report as a string."""
     warnings = warnings or []
     sources_used = sources_used or []
     counts = _bucket_counts(scored)
@@ -267,7 +267,7 @@ def build_html_report(
     sources_used: list[str] | None = None,
     top_n: int = 10,
 ) -> str:
-    """Build the client-facing HTML report as a self-contained string."""
+    """Build the stakeholder-facing HTML report as a self-contained string."""
     warnings = warnings or []
     sources_used = sources_used or []
     counts = _bucket_counts(scored)
